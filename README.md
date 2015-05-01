@@ -1,6 +1,6 @@
 # QStringTokenizer
 
-Java StringTokenizer to Qt port
+From Java to Qt port
 
 # About
 
