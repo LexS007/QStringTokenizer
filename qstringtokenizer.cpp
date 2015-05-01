@@ -24,7 +24,6 @@
  */
 #include "qstringtokenizer.h"
 #include <QChar>
-#include <QDebug>
 
 /**
 * Constructs a string tokenizer for the specified string. All
